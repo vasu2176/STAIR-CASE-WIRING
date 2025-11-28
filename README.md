@@ -33,16 +33,18 @@ Circuit Diagram:
 Direct Connection:
 <img width="619" height="314" alt="image" src="https://github.com/user-attachments/assets/adcbab25-2530-4251-99b8-3fd0829f298d" />
 
-Tabulation:
-<img width="659" height="205" alt="image" src="https://github.com/user-attachments/assets/b9a577d8-4f3f-45a7-b9dc-0056a2fe904c" />
+Tabulation 1:
+<img width="473" height="211" alt="image" src="https://github.com/user-attachments/assets/c8e9d530-e915-4811-b97a-925aaf8e131f" />
+
 
 Circuit Diagram:
 Cross Connection:
 <img width="617" height="308" alt="image" src="https://github.com/user-attachments/assets/cb78f403-981f-4287-ae31-999310d871dc" />
 
-Tabulation 2
-<img width="632" height="192" alt="image" src="https://github.com/user-attachments/assets/8e944ce6-90c1-4308-b06d-23fe8f9dfb36" />
+Tabulation 2:
+<img width="441" height="179" alt="image" src="https://github.com/user-attachments/assets/7e12941b-98a1-4d1b-973f-d78670621351" />
+
 
 Result: 
-
+The experiment was performed sucessfully.
 
